@@ -1,6 +1,6 @@
 # Sistema Integrado de Processamento Digital de Imagens e Vídeo (PDI)
 
-Desenvolvido por: Gabriele Monteiro e Tainá Kasai
+Desenvolvido por: Gabriele Monteiro, Tainá Kasai e Talita Sabine 
 
 Projeto acadêmico final desenvolvido em Python e OpenCV para a disciplina de **Processamento Digital de Imagens / Visão Computacional**, estruturado em módulos independentes e acessível via menu interativo de terminal e modo de demonstração automatizado.
 
